@@ -1,84 +1,92 @@
-# Delicious-Pizza-Sales-Dashboard-Power-BI
-Power BI dashboard analyzing Delicious Pizza sales across U.S. states. Tracks daily sales vs. targets, sales by pizza type, and top-performing store managers. Offers insights into regional performance, customer preferences, and sales trends from Dec 3–15.
-This Power BI project presents an interactive and visually rich sales analysis dashboard for Delicious Pizza, aimed at uncovering business performance insights across regions, products, managers, and time.
+# 🍕 Delicious Pizza Sales Dashboard – Power BI
 
-The dashboard helps stakeholders understand how different pizza types, store managers, and states contribute to overall sales while comparing daily performance against predefined targets.
+An interactive Power BI dashboard that analyzes **Delicious Pizza** sales across U.S. states, comparing **daily sales vs targets**, highlighting **top-performing pizza types**, and evaluating **store manager performance**. This project helps uncover trends in customer preferences, regional success, and operational efficiency.
 
-📊 Key Highlights
-Total Sales:
+---
 
-The dashboard analyzes a total sales amount of $189.48K from December 3 to December 15.
+## 📌 Project Overview
 
-State-wise Sales Breakdown:
+This dashboard visualizes sales data from **December 3 to December 15**, offering a clear breakdown by:
 
-Sales are segmented by U.S. states including Arizona, California, Nevada, Oregon, and Idaho.
+- **Geography (U.S. States)**  
+- **Pizza Type**  
+- **Daily Sales Performance**  
+- **Store Manager Contributions**
 
-Arizona and California emerged as the highest-grossing states.
+It enables business stakeholders to track progress toward goals, identify popular products, and analyze regional and managerial performance.
 
-Sales vs. Targets:
+---
 
-Daily sales are compared to targets across 13 days.
+## 📊 Key Highlights
 
-Some days surpassed targets, while others underperformed — helping identify demand trends and underperforming days.
+### 💵 Total Sales:
+- **$189.48K** total sales from Dec 3–15
 
-Pizza Type Analysis:
+### 🗺 State-wise Sales:
+- Top contributing states: **Arizona** and **California**
+- Sales also tracked in: **Nevada**, **Oregon**, **Idaho**
 
-Sales figures are broken down by pizza varieties such as:
+### 📅 Sales vs. Targets:
+- Daily sales are compared against 13-day targets
+- Some days exceeded goals; others underperformed — offering insights into peak demand periods
 
-Hot Pepperoni Feast
+### 🍕 Pizza Type Breakdown:
+Top-selling pizzas include:
+- Hot Pepperoni Feast  
+- Chicken Suya  
+- BBQ Philly Steak  
+- Pepperoni Suya  
+- Veggie Supreme  
+- Meatzaa  
+- Chicken Bali  
 
-Chicken Suya
+This helps identify customer preferences and sales drivers.
 
-BBQ Philly Steak
+### 👤 Store Manager Performance:
+Top performers:
+- **Dan Peterson** – $39.34K (20.76%)  
+- **Kyle Carr** – $39.12K (20.65%)  
+- Others: Christy Olson, Mable Lindsey, Rachel Gomez  
+- Performance distribution shows strong team consistency
 
-Pepperoni Suya
+---
 
-Veggie Supreme
+## 📈 Insights & Business Impact
 
-Meatzaa
+- **Meat-based pizzas** dominate sales, indicating strong demand  
+- **California and Arizona** lead in revenue generation  
+- Sales fluctuate daily — showing potential for marketing on low-performing days  
+- **Managerial output** is well-balanced, reflecting effective store operations
 
-Chicken Bali, and more.
+---
 
-This helps identify customer preferences and best-sellers.
+## 🛠 Tools & Skills Used
 
-Store Manager Performance:
+- **Microsoft Power BI Desktop**  
+- **DAX** for KPI and measure calculations  
+- **Data Modeling** to build relationships across tables  
+- Visuals: Bar Charts, Line Graphs, Maps, KPI Cards
 
-Top-performing managers based on sales:
+---
 
-Dan Peterson – $39.34K (20.76%)
+## 📁 Files Included
 
-Kyle Carr – $39.12K (20.65%)
+- `delicious-pizza-dashboard.pbix` – Main dashboard file  
+- PNG screenshots of the report  
+- Sample dataset (CSV/Excel)  
+- `README.md` – Project documentation
 
-Christy Olson, Mable Lindsey, and Rachel Gomez follow closely.
+---
 
-Performance distribution shows strong consistency among managers.
+## ✅ Use Case
 
-📈 Insights & Impact
-Meat-based pizzas dominate the sales chart, indicating strong customer preference.
+Ideal for **pizza franchises** or **fast food chains** looking to:
 
-California and Arizona contribute the highest regional revenue.
+- Monitor daily sales performance  
+- Understand customer preferences  
+- Evaluate manager productivity  
+- Improve sales strategies based on data
 
-Sales performance fluctuates daily, showing room for promotional strategies on low-performing days.
+---
 
-Managerial performance is fairly balanced, pointing to efficient store operations.
 
-🛠 Tools & Skills Used
-Microsoft Power BI Desktop
-
-DAX for KPI and measure calculations
-
-Data Modeling to relate multiple dimensions
-
-Bar charts, line graphs, maps, and cards for interactive visualization
-
-📁 Files Included
-.pbix (Power BI dashboard file)
-
-Screenshots of the dashboard
-
-Sample dataset 
-
-README.md with full project documentation
-
-✅ Use Case
-This dashboard serves as a performance tracking tool for pizza franchises or food chains, allowing decision-makers to quickly assess what’s selling, where, and who’s driving the most revenue.
