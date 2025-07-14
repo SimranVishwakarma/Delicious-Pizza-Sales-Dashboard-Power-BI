@@ -76,7 +76,7 @@ Bar charts, line graphs, maps, and cards for interactive visualization
 
 Screenshots of the dashboard
 
-Sample dataset (if available)
+Sample dataset 
 
 README.md with full project documentation
 
